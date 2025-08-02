@@ -1,0 +1,12 @@
+# Changelog
+
+## [v1.0] - 2025-08-02
+
+### Added
+
+- Primera versión estable de OCR Capture Plasma.
+- Captura de pantalla con selección de región.
+- OCR con tesseract en español e inglés.
+- Copia automática al portapapeles.
+- Notificación visual en KDE Plasma.
+- Atajo global `Meta+Shift+T`.
