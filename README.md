@@ -55,9 +55,8 @@ sudo pacman -Sy spectacle tesseract tesseract-data-spa tesseract-data-eng xclip
 
     Descarga el script:
  ```bash
-curl -O https://raw.githubusercontent.com/tu_usuario/ocr-capture-plasma/main/ocr_capture.sh
+curl -O https://raw.githubusercontent.com/lexapaga/OCR-Capture-Plasma/main/ocr_capture.sh
 chmod +x ocr_capture.sh
-mkdir -p ~/.local/bin
 mv ocr_capture.sh ~/.local/bin/
 ```
     Crea un atajo de teclado en KDE:
