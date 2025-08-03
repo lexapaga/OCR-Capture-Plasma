@@ -51,15 +51,17 @@ sudo dnf install spectacle tesseract tesseract-langpack-spa tesseract-langpack-e
 sudo pacman -Sy spectacle tesseract tesseract-data-spa tesseract-data-eng xclip
 
 ```
+---
 ## 📥 Instalación
 
-    Descarga el script:
+### Descarga el script: 
+
  ```bash
 curl -O https://raw.githubusercontent.com/lexapaga/OCR-Capture-Plasma/main/ocr_capture.sh
 chmod +x ocr_capture.sh
 mv ocr_capture.sh ~/.local/bin/
 ```
-    Crea un atajo de teclado en KDE:
+### Crea un atajo de teclado en KDE:
 
 - Abrí Preferencias del sistema → Atajos de teclado
 - Seleccioná "Editar → Añadir → Atajo personalizado"
@@ -68,11 +70,11 @@ mv ocr_capture.sh ~/.local/bin/
 - Atajo: Meta + Shift + T
 - Aplicar
 
-¡Listo! Ahora puedes usar el OCR en plasma como si fuera PowerToys.
+**¡Listo! Ahora puedes usar el OCR en plasma como si fuera PowerToys.**
 
 ## 🧾 Changelog
 
-Mirar CHANGELOG.md para ver los detalles de cada versión.
+Mira el [CHANGELOG.md](CHANGELOG.md) para ver los detalles de cada versión.
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT.
